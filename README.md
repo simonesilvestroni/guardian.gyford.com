@@ -1,4 +1,4 @@
-# "Today's Guardian" by Phil Gyford custom CSS
+# "Today's Guardian" by Phil Gyford - Custom CSS
 
 The [website](https://www.gyford.com/phil/writing/2010/06/09/todays-guardian/) shows all the articles from today’s issue of [_The Guardian_](https://www.theguardian.com/theguardian) or, on Sundays, [_Observer_](https://www.theguardian.com/theobserver) newspapers. It is run by [Phil Gyford](https://www.gyford.com/) and uses the [Guardian Open Platform](https://open-platform.theguardian.com/). A new issue appears around midnight UK time. The code is [on GitHub](https://github.com/philgyford/daily-paper).
 
