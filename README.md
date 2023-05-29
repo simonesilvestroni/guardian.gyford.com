@@ -8,3 +8,7 @@ Featuring the same typography used of other interfaces I've been using:
 
 - Seravek for headings and UI elements
 - Iowan Old Style for body copy
+
+## Example
+
+![Screenshot of Today's Guardian with custom CSS](./assets/today-s-guardian.png)
