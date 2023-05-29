@@ -1,0 +1,25 @@
+@-moz-document domain("gyford.com") {
+  .page h2, #about-page h1 {
+    font-size: 1.8em;
+    font-size: 1.8rem;
+    line-height: 1.3;
+    font-family: 'Seravek';
+    font-weight: bold;
+  }
+  .page .meta .section,
+  #title, #progress span, .page .byline p, .page figure figcaption, .page .footer p, #about-page .close, #footer p, .alert, input,
+  .page .byline,
+  .page .standfirst p:last-child {
+    font-family: 'Seravek' !important;
+  }
+  .page .standfirst p:last-child {
+    font-size: 1.3rem;
+    line-height: 1.3;
+  }
+  .page p {
+    font-family: 'Iowan Old Style';
+  }
+  .page gu-atom[data-atom-type="media"] iframe {
+    height: 100% !important;
+  }
+}
